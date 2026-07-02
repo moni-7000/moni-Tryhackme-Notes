@@ -1,5 +1,5 @@
 # moni-Tryhackme-Notes
-- Repository to keep track of my personal notes as I learn from TryHackMe.
+- Repository to keep track of my personal thoughts and useful information as I learn from TryHackMe.
 
 # Things I plan to note are:
 - *Things that confused me.*
